@@ -1,0 +1,37 @@
+.header{
+    height: 80px;
+    padding: 20px 10px;
+    background-color:#b75277;
+  
+}
+.header-logo{
+    float: left;
+    font-size: 30px;
+}
+li{
+    float: right;
+    padding: 10px 20px;
+    list-style: none;
+    background-color:#ffe4e1;
+}
+.main{
+    background-color:#ffe4e1;
+    height: 540px;
+}
+.photo-gallerry{
+
+}
+.photo1{
+    height: 200px;
+}
+.photo2{
+    height: 200px;
+}
+.photo3{
+    height: 200px;
+}
+
+.footer{
+    height: 120px;
+    background-color:#b75277;
+}
